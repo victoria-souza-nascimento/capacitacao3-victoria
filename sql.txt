@@ -1,3 +1,30 @@
 SQL - Structure Query Language 
 Linguagem de Consulta Estruturada
 É uma linguagem de programação com um padrão especifico, utilizada para gerenciar banco de dados ou processar fluxo de dados
+
+Comandos(letras maiusculas):
+CREATE: Criar
+DROP: Deletar
+CREATE DATABASE: Criar um banco de dados
+DROP DATABASE: Deletar um banco de dados
+USE: Criar e aplicar mudanças
+--: Comentarios
+VARCHAR(X): texto
+INT(X): numero
+DATE: data
+ALTER: alterar
+ADD: adicionar
+SELECT * FROM: Seleciona todos os dados de uma tabela(R)
+CRUD: C=Creat
+      R=Read
+      U=Update
+      D=Delete
+INSERT INTO: Insere dados na tabela(C)
+VALUES: Valores
+WHERE: Seleção de dados especificos(R)
+UPDATE: Atualiza a tabela(U)
+SET: Delimita a coluna
+DELET: Deletar dados
+CONSTRAINTS= Caracteristicas delimitantes
+
+ 
