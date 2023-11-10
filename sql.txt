@@ -1,0 +1,3 @@
+SQL - Structure Query Language 
+Linguagem de Consulta Estruturada
+É uma linguagem de programação com um padrão especifico, utilizada para gerenciar banco de dados ou processar fluxo de dados
